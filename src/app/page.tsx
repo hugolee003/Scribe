@@ -12,7 +12,7 @@ export default function Home() {
         <div className="absolute mb-3 -inset-0.5 bg-pink-600 rounded-full blur-sm opacity-75 bg-gradient-to-r from-pink-500 via-red-500 to-purple-500"></div>
         <div className="relative mx-auto mb-4 max-w-fit items-center justify-center space-x-2 overflow-hidden rounded-full border border-gray-200 bg-white px-7 py-2 shadow-md backdrop-blur-sm transition-all hover:border-gray-300 hover:bg-white/90">
         <p className="text-sm font-semibold text-gray-700">
-          Scribe is now public! 🎉
+          Scribe is now public! 🎉 
         </p>
         </div>
       </div>
