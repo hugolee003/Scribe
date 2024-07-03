@@ -3,10 +3,6 @@
 @tailwind utilities;
 
 
-.gradient-text{
-  
-}
-
  
 @layer base {
   :root {
